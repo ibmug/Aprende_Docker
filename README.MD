@@ -13,7 +13,7 @@ dando las bases necesarias para desarrollar, probar e implementar.
 - [Empecemos](#Empecemos)
 - [Estructura](#Estructura)
 - [Uso](#uso)
-- [Contributing](#contributing)
+- [Contribuye](#contribuye)
 - [License](#license)
 
 ## Introduccion
@@ -58,7 +58,7 @@ El repo tiene esta estructura de directorio:
 
 Explorar las configuraciones y recursos para integrar docker con nuestro flujo de trabajo. - Mas informacion en la documentacion dentro de cada directorio.
 
-## Contributing
+## Contribuye
 
 Si quieres contribuir a este repo, da con los siguientes pasos:
 
